@@ -1,5 +1,5 @@
 {
-    "name": "bibo/container",
+    "name": "biboletin/container",
     "description": "Dependency Injection container",
     "type": "library",
     "license": "MIT",
